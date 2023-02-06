@@ -14,6 +14,8 @@
 
 <br />
 
+NOTE: I mostly use Gitlab for version control. See my gitlab here: [https://gitlab.com/njdowdy](https://gitlab.com/njdowdy)
+
 ### 👋 Hello World! 👋
 
 - 🔭 I’m currently working on studying the evolution of tiger moth anti-predator defenses
