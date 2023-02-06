@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**njdowdy/njdowdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello World! 👋
 
 - 🔭 I’m currently working on studying the evolution of tiger moth anti-predator defenses
 - 🌱 I’m currently learning trpc
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: njdowdy[at]gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
