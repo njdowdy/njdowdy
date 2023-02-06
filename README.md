@@ -11,4 +11,4 @@
 
 ### Publications
 
-- Dowdy, Nicolas J. (2021). TaxoTracker: A collaborative platform for taxonomic resource maintenance. <i>Biodiversity Information Science and Standards</i>. 
+- 2021\. Dowdy, Nicolas J. TaxoTracker: A collaborative platform for taxonomic resource maintenance. <i>Biodiversity Information Science and Standards</i>. 
