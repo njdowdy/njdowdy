@@ -8,3 +8,7 @@
 - 📫 How to reach me: njdowdy[at]gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
+
+### Publications
+
+- Dowdy, Nicolas J. (2021). TaxoTracker: A collaborative platform for taxonomic resource maintenance. <i>Biodiversity Information Science and Standards</i>. 
