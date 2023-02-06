@@ -35,8 +35,8 @@ NOTE: I mostly use Gitlab for version control. See my gitlab here: [https://gitl
 - 2022-current\.&emsp;Head of Zoology, Milwaukee Public Museum
 - 2018-current\.&emsp;Assistant Research Professor, Wake Forest University
 - 2018-2022\.&emsp;NSF Postdoctoral Research Fellowship in Biology ([DBI-1811897](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1811897)), Milwaukee Public Museum
-- 2020\.&emsp;Postdoctoral Researcher, Purdue University (Terrestrial Parasite Tracker TCN: [DBI-1901932](https://nsf.gov/awardsearch/showAward?AWD_ID=1901932))
-- 2017-2018\.&emsp;Postdoctoral Researcher, Purdue University (PERC CSBR: [DBI-1561448](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1561448))
+- 2020\.&emsp;Postdoctoral Researcher (PI: Jennifer M. Zaspel): Purdue University (Terrestrial Parasite Tracker TCN: [DBI-1901932](https://nsf.gov/awardsearch/showAward?AWD_ID=1901932))
+- 2017-2018\.&emsp;Postdoctoral Researcher (PI: Jennifer M. Zaspel): Purdue University (PERC CSBR: [DBI-1561448](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1561448))
 - 2017\.&emsp;[Entomological Collections Management Workshop](https://ecnweb.net/workshop/)
 - 2011-2017\.&emsp;Ph.D. Biology (PI: William E. Conner): Wake Forest University, Winston-Salem, NC, USA
 - 2007-2011\.&emsp;B.S. Ecology & Evolutionary Biology, Minors: Mathematics, Chemistry: University of Arizona, Tucson, AZ, USA
