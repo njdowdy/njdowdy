@@ -1,10 +1,10 @@
-### Hello World! 👋
-## Dr. Nicolas J. Dowdy
+# Dr. Nicolas J. Dowdy
 ## [0000-0002-5453-2569](https://orcid.org/my-orcid?orcid=0000-0002-5453-2569)
-# Head of Zoology
-# Director of Collections Informations
-# Milwaukee Public Museum
+### Head of Zoology
+### Director of Collections Informations
+### Milwaukee Public Museum
 
+### Hello World! 👋
 - 🔭 I’m currently working on studying the evolution of tiger moth anti-predator defenses
 - 🌱 I’m currently learning trpc
 - 👯 I’m looking to collaborate on lepidopteran evolution
