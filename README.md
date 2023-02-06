@@ -18,16 +18,15 @@ NOTE: I mostly use Gitlab for version control. See my gitlab here: [https://gitl
 
 ### 👋 Hello, World! 👋
 
-- 🔭 I’m currently working on studying the evolution of tiger moth anti-predator defenses
-  - Click [here](#) for some ongoing projects!
-- 🌱 I’m currently learning [tRPC](https://trpc.io/), [Next.js](https://nextjs.org/), [Prisma ORM](https://www.prisma.io/), [Figma](https://www.figma.com/)
+- 🔭 I’m [currently working on](#what-im-working-on) studying the evolution of tiger moth anti-predator defenses
+- 🌱 I’m currently learning [BioGeoBEARS](https://github.com/nmatzke/BioGeoBEARS), [tRPC](https://trpc.io/), [Next.js](https://nextjs.org/), [Prisma ORM](https://www.prisma.io/), [Figma](https://www.figma.com/)
 - 👯 I’m looking to collaborate on lepidopteran evolution & taxonomic resource management
 - 💬 Ask me about taxonomy, lepidoptera, evolution, phylogenetics, programming, data science, etc!
 - 📫 How to reach me: njdowdy[at]gmail.com
 - 📹 https://www.youtube.com/@arctiinae
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Lover of horror, board games, and good food 🍜!
-- 🌎 I co-organize an annual international meeting of tiger moth researchers. Get in touch if you are interested in joining!
+- 🌎 I co-organize an annual international meeting of tiger moth researchers. I also co-organzie a meeting for researchers of Noctuoidea. Get in touch if you are interested in joining us!
 
 ---
 
@@ -46,7 +45,7 @@ NOTE: I mostly use Gitlab for version control. See my gitlab here: [https://gitl
 
 ## Publications
 
-- <i>Accepted</i>&emsp;Chesshire, P.R., Fischer, E.E., <b style="color: orange;">Dowdy, N.J.</b>, Griswold, T.L., Hughes, A.C., Orr, M.C., Ascher, J.S., Guzman, L.M., Hung, K.J., Cobb N.S., McCabe, L.M. Completeness analysis for over 3000 United States bee species identifies persistent data gap. <i>Ecography</i>.
+- <i>Accepted.</i>&emsp;Chesshire, P.R., Fischer, E.E., <b style="color: orange;">Dowdy, N.J.</b>, Griswold, T.L., Hughes, A.C., Orr, M.C., Ascher, J.S., Guzman, L.M., Hung, K.J., Cobb N.S., McCabe, L.M. Completeness analysis for over 3000 United States bee species identifies persistent data gap. <i>Ecography</i>.
 - 2022\.&emsp;Fernández, Y., <b style="color: orange;">Dowdy, N.J.</b>, Conner, W.E. High click rates generate the sonar-jamming strategy of tiger moths (Lepidoptera: Erebidae: Arctiinae). <i>Journal of Experimental Biology</i>. https://doi.org/10.1242/jeb.244187
 - 2021\.&emsp;<b style="color: orange;">Dowdy, N.J.</b> TaxoTracker: A collaborative platform for taxonomic resource maintenance. <i>Biodiversity Information Science and Standards</i>. https://doi.org/10.3897/biss.5.73867
 - 2020\.&emsp;<b style="color: orange;">Dowdy, N.J.</b>, Keating, S., Lemmon, A.R., Lemmon, E.M., Conner, W.E., Scott Chialvo, C.H., Weller, S.J., Simmons, R.B., Sisson, M.S., Zaspel, J.M. A deeper meaning for shallow‐level phylogenomic studies: nested anchored hybrid enrichment offers great promise for resolving the tiger moth tree of life (Lepidoptera: Erebidae: Arctiinae). <i>Systematic Entomology</i>. 45(4), p. 874-893. https://doi.org/10.1111/syen.12433
