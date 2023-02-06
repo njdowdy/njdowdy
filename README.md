@@ -45,7 +45,7 @@ NOTE: I mostly use Gitlab for version control. See my gitlab here: [https://gitl
 
 ## Publications
 
-- <i>Accepted.</i>&emsp;Chesshire, P.R., Fischer, E.E., <b style="color: orange;">Dowdy, N.J.</b>, Griswold, T.L., Hughes, A.C., Orr, M.C., Ascher, J.S., Guzman, L.M., Hung, K.J., Cobb N.S., McCabe, L.M. Completeness analysis for over 3000 United States bee species identifies persistent data gap. <i>Ecography</i>.
+- 2023.&emsp;Chesshire, P.R., Fischer, E.E., <b style="color: orange;">Dowdy, N.J.</b>, Griswold, T.L., Hughes, A.C., Orr, M.C., Ascher, J.S., Guzman, L.M., Hung, K.J., Cobb N.S., McCabe, L.M. Completeness analysis for over 3000 United States bee species identifies persistent data gap. <i>Ecography</i>. https://doi.org/10.1111/ecog.06584
 - 2022\.&emsp;Fernández, Y., <b style="color: orange;">Dowdy, N.J.</b>, Conner, W.E. High click rates generate the sonar-jamming strategy of tiger moths (Lepidoptera: Erebidae: Arctiinae). <i>Journal of Experimental Biology</i>. https://doi.org/10.1242/jeb.244187
 - 2021\.&emsp;<b style="color: orange;">Dowdy, N.J.</b> TaxoTracker: A collaborative platform for taxonomic resource maintenance. <i>Biodiversity Information Science and Standards</i>. https://doi.org/10.3897/biss.5.73867
 - 2020\.&emsp;<b style="color: orange;">Dowdy, N.J.</b>, Keating, S., Lemmon, A.R., Lemmon, E.M., Conner, W.E., Scott Chialvo, C.H., Weller, S.J., Simmons, R.B., Sisson, M.S., Zaspel, J.M. A deeper meaning for shallow‐level phylogenomic studies: nested anchored hybrid enrichment offers great promise for resolving the tiger moth tree of life (Lepidoptera: Erebidae: Arctiinae). <i>Systematic Entomology</i>. 45(4), p. 874-893. https://doi.org/10.1111/syen.12433
