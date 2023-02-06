@@ -9,7 +9,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
-### Publications
 _________________
+*****
+### Publications
 - 2021\. <b>Dowdy, N.J.</b>. TaxoTracker: A collaborative platform for taxonomic resource maintenance. <i>Biodiversity Information Science and Standards</i>.
 - 
