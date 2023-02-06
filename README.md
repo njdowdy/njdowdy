@@ -17,7 +17,7 @@
 ### 👋 Hello World! 👋
 
 - 🔭 I’m currently working on studying the evolution of tiger moth anti-predator defenses
-  - CLick [here](#) for some ongoing projects!
+  - Click [here](#) for some ongoing projects!
 - 🌱 I’m currently learning [tRPC](https://trpc.io/), [Next.js](https://nextjs.org/), [Prisma ORM](https://www.prisma.io/), [Figma](https://www.figma.com/)
 - 👯 I’m looking to collaborate on lepidopteran evolution & taxonomic resource management
 - 💬 Ask me about taxonomy, lepidoptera, evolution, phylogenetics, programming, data science, etc!
